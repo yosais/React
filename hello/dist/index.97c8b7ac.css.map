@@ -1,0 +1,1 @@
+{"mappings":"ACAA,aAIA","sources":["index.97c8b7ac.css","styles.css"],"sourcesContent":["h1 {\n  color: red;\n}\n\nh2 {\n  color: #00f;\n  font-family: sans-serif;\n}\n\n/*# sourceMappingURL=index.97c8b7ac.css.map */\n","h1 {\n    color: red;\n}\n\nh2 {\n    font-family: sans-serif;\n    color: blue;\n}\n"],"names":[],"version":3,"file":"index.97c8b7ac.css.map"}
