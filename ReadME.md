@@ -13,3 +13,7 @@ Please execute the following commands inside the example folder.
 8. To teset your `FINAL` application, terminate the `parcel` server. After that, change directory to the folder `dist`. Inside this folder, run the following command: `python3 -m http.server` .
 9. To preview the final application within your Google Cloud Worksatation, duplicate the Tab and then change the port number to the one shown by the `python` built-in server.
 10. You deploy the files in the folder `dist`.
+
+=================== Notes ============================
+
+Inside CodeSpaces [Specify Port Number]: python3 -m http.server 1234
